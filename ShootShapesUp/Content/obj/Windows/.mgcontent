@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/../../../Bullet.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/../../../Music2.mp3</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/../../../Victory.mp3</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Background1.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Background2.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Boss.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Boss0%.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Boss100%.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Boss20%.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Boss40%.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Boss60%.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Boss80%.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Bullet2.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/crosshair.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Player.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Pointer.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Seeker.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/SeekerMissile.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Art/Wanderer.png</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Bombs.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/BossHP.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Ending.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Font.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Font2.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Levels.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/PlasmaAmmo.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Score.spritefont</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-01.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-02.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-03.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-04.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-05.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-06.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-07.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-08.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/Music.mp3</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-01.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-02.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-03.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-04.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-01.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-02.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-03.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-04.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-05.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-06.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-07.wav</File>
+    <File>C:/Users/spide/Desktop/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-08.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Art/Bullet.png</File>
+    <File>Sound/Music2.mp3</File>
+    <File>Sound/Victory.mp3</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Lives.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
